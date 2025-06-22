@@ -1,2 +1,2 @@
-'git is awesoe!' 
+'git is aesoe!' 
 'experiment with amend' 
